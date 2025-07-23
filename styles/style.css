@@ -108,3 +108,24 @@ nav{
     color: #ffffff;
 }
 /* plant end */
+/* lover */
+.lover{
+    margin: 150px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.lover-content{
+    /* margin-left: 100px; */
+}
+.lover-title{
+    font-size: 50px;
+    font-weight: 600;
+}
+.lover-content li{
+    margin-left: 20px;
+    max-width: 400px;
+    margin: 20px 0;
+    color: rgba(0, 0, 0, 0.5);
+}
+/* lover end */
