@@ -424,13 +424,19 @@ nav{
         gap: 40px;
         padding: 50px 0;
     }
+    .footer-middle{
+        margin-left: 0 ;
+    }
     .footer-links{
         flex-direction: column;
         align-items: flex-start;
-        justify-content: flex-start;
         gap: 10px;
         margin: 0 auto;
+        margin-left: -140px;
     
+    }
+    .footer-right{
+        margin-left: -100px;
     }
 
 }
